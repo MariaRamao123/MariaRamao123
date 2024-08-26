@@ -1,5 +1,5 @@
 - 👋 Oi, me chamo Maria Eduarda
-tenho 14 anos, estudo no 1° ano no CEDAB.
+
 
 
 <!---
